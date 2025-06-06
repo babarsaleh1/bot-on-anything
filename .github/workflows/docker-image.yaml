@@ -1,6 +1,6 @@
 # docker-image.yml
 name: Publish Docker image
-
+,
 on:   
   push:
     branches:   # master分支有push时触发此workflow
